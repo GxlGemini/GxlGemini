@@ -101,7 +101,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
     </a>
 </div>
-### 📈 Github Statistics
+<h3>📈 Github Statistics</h3>
 
 
 <div align="center">
