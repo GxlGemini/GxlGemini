@@ -13,9 +13,7 @@
 
 ### 🏆 Profile Trophy
 
-> [!NOTE]
->
-> .....
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2620105279&auto=0&height=66"></iframe>
 
 
 ### 🔨 Skills and Tools
@@ -73,8 +71,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
     </a>
 </div>
-
-
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -104,8 +100,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
     </a>
 </div>
-
-
 ### 📈 Github Statistics
 
 <div align="center">
@@ -115,22 +109,3 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GxlGemini&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
-
-
-
-## Hi there 👋
-
-<!--
-**GxlGemini/GxlGemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
