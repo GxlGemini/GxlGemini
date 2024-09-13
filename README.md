@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm GXLGmeini 🎉 </h3>
+<h3 align="center">Hi 👋, I'm GXLGemini 🎉 </h3>
 
 <p align="center">
   <a title="GitHub" target="_blank" href="https://github.com/GxlGemini">
