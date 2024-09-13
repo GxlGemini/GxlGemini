@@ -1,6 +1,9 @@
 <h3 align="center">Hi 👋, I'm GXLGmeini 🎉 </h3>
 
 <p align="center">
+  <a title="GitHub" target="_blank" href="https://github.com/GxlGemini">
+    <img src="https://img.shields.io/badge/GitHub-github.com%2FGxlGemini-8A2BE2" />  
+  </a> 
   <a title="Java" target="_blank" href="https://www.jetbrains.com/zh-cn/idea/">
     <img src="https://img.shields.io/badge/Java-IntelliJ%20IDEA-green" />  
   </a> 
@@ -99,6 +102,7 @@
     </a>
 </div>
 ### 📈 Github Statistics
+
 
 <div align="center">
     <span>&emsp;&emsp;</span>
