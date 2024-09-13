@@ -3,7 +3,8 @@
 <p align="center">
  <a title="Java" target="_blank" href="https://www.jetbrains.com/zh-cn/idea/">
         <img src="https://img.shields.io/badge/Java-IntelliJ%20IDEA-green
-" />     
+" />  
+      </a> 
 <a title="My Blog Site" target="_blank" href="https://gxlgemini.github.io">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-gxlgemini.github.io-orange" />
     </a>
@@ -13,7 +14,7 @@
 
 ### 🏆 Profile Trophy
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2620105279&auto=0&height=66"></iframe>
+
 
 
 ### 🔨 Skills and Tools
