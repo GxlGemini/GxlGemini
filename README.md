@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-gxlgemini.github.io-orange" />
   </a>
 </p>
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82" alt="This is me"> </p>
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=835&lines=%22%E7%9F%A5%E9%81%93%E6%98%AF%E5%8A%9B%E9%87%8F%EF%BC%8C%E4%BD%86%E5%8F%AA%E6%9C%89%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BA%94%E7%94%A8%E6%89%8D%E8%83%BD%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%82%22+%E2%80%94%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9"> </p>
 
 ### 🏆 Profile Trophy
 
@@ -114,4 +114,3 @@
 <p align="center">   <img src="https://s21.ax1x.com/2024/09/14/pAuCw2d.webp" alt="This is me"> </p>
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg" width="250PX" height="250PX" /> </p>
-
