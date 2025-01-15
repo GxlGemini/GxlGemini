@@ -33,6 +33,8 @@
     <span>&emsp;&emsp;</span>
 </div>
 <p align="center">   <img src="https://s21.ax1x.com/2024/09/14/pAuCw2d.webp" alt="This is me"> </p>
-![Stargazers over time](https://starchart.cc/fluid-dev/hexo-theme-fluid.svg?variant=adaptive)
+
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg" width="250PX" height="250PX" /> </p>
+
+<p align="center"> <img src="https://starchart.cc/fluid-dev/hexo-theme-fluid.svg?variant=adaptive" /> </p>
