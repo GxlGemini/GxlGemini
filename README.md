@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-gxlgemini.github.io-orange" />
   </a>
 </p>
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=835&lines=%22%E7%9F%A5%E9%81%93%E6%98%AF%E5%8A%9B%E9%87%8F%EF%BC%8C%E4%BD%86%E5%8F%AA%E6%9C%89%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BA%94%E7%94%A8%E6%89%8D%E8%83%BD%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%82%22+%E2%80%94%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9"> </p>
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=835&lines=%22%E7%9F%A5%E9%81%93%E6%98%AF%E5%8A%9B%E9%87%8F%EF%BC%8C%E4%BD%86%E5%8F%AA%E6%9C%89%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BA%94%E7%94%A8%E6%89%8D%E8%83%BD%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%82%22+%E2%80%94%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9"> </p>
 
 ### 🏆 Profile Trophy
 
