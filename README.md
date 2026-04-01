@@ -19,5 +19,3 @@
     </a>
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg" width="250PX" height="250PX" /> </p>
-
-![](https://gitee.com/GxlGemini/mypicture/raw/master/img/2026/450sr.png)
